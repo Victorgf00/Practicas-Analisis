@@ -1,2 +1,2 @@
-# Practica-2-Analisis
-Notebooks con los programas y resultados de la practica
+# Practicas-Analisis
+Notebooks con los programas y resultados de las prácticas
